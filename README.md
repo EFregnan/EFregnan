@@ -4,7 +4,7 @@ I am PhD. student in Software Engineering, currently investigating how to suppor
 
 When I have some free time, I enjoy working on Open-Source projects. 
 
-I am not anywhere close to being a senior developer, so any tips or tricks on how to program better are more than welcome! 😄
+I am not anywhere close to being a senior developer, so any tips or tricks to program better are more than welcome! 😄
 <br>
 <br>
 ⚡ Favorite programming language: Java
