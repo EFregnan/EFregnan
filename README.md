@@ -1,10 +1,9 @@
-### Hi there 👋
+### Welcome 👋
 
 I am PhD. student in Software Engineering, currently investigating how to support developers during code review 💻.
 
 When I have some free time, I enjoy working on Open-Source projects. 
 
-Any tips or tricks to program better are more than welcome! 😄
 <br>
 <br>
 ⚡ Favorite programming language: Java
